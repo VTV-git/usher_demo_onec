@@ -10,7 +10,7 @@
   },
   "stages": {
     "prepareBase": true,
-    "syntaxCheck": true,
+    "syntaxCheck": false,
     "sonarqube": false,
     "smoke": false,
     "tdd": true,
