@@ -1,6 +1,6 @@
 {
   "agent": "ag1",
-  "v8Version": "8.3.25.15",
+  "v8Version": "8.3.25.1501",
   "defaultInfobase": {
     "connectionString": "/FC:\\1C\\BD_usher_onec  --db-user admin --db-pwd admin"
   },
