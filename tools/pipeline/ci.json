@@ -2,7 +2,7 @@
   "agent": "ag1",
   "v8Version": "8.3.25.15",
   "defaultInfobase": {
-    "connectionString": "/FC:\\1C\\BD_usher_onec"
+    "connectionString": "/FC:\\1C\\BD_usher_onec  --db-user \\admin\\ --db-pwd \\admin\\"
   },
   "notification": {
     "mode": "EMAIL",
